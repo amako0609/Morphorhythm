@@ -1,0 +1,4 @@
+ofxFunctionalEasing
+ofxGui
+ofxOsc
+ofxPubSubOsc
